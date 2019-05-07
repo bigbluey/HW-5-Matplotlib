@@ -11,7 +11,7 @@ You've since been given access to the company's complete recordset of rides. Thi
 
 ## Ojbectives
 
-### Combine/Merge the two dataframes into a single dataset based on the cities they share
+#### Combine/Merge the two dataframes into a single dataset based on the cities they share
 ![](Images/merged-dataframe_dataset.png)
 
 
@@ -27,12 +27,15 @@ Build a Bubble Plot that showcases the relationship between four key variables:
 In addition, produce the following three Pie Charts:
 
 * % of Total Fares by City Type
+
 ![](Images/pyber_ridesharing_percetage_total_fares.png)
 
 * % of Total Rides by City Type
+
 ![](Images/pyber_ridesharing_percetage_total_rides.png)
 
 * % of Total Drivers by City Type
+
 ![](Images/pyber_ridesharing_percetage_total_drivers.png)
 
 
