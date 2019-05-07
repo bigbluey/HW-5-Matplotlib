@@ -26,15 +26,15 @@ Build a Bubble Plot that showcases the relationship between four key variables:
 
 In addition, produce the following three Pie Charts:
 
-* % of Total Fares by City Type
+#### % of Total Fares by City Type
 
 ![](Images/pyber_ridesharing_percetage_total_fares.png)
 
-* % of Total Rides by City Type
+#### % of Total Rides by City Type
 
 ![](Images/pyber_ridesharing_percetage_total_rides.png)
 
-* % of Total Drivers by City Type
+#### % of Total Drivers by City Type
 
 ![](Images/pyber_ridesharing_percetage_total_drivers.png)
 
